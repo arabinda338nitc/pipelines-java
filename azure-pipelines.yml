@@ -15,7 +15,7 @@ variables:
   webAppName: 'FirstPipeline'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'env'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
